@@ -1,0 +1,342 @@
+,,,,,
+ingredient_name,common_brand_name,drug_class,use_case,pubmed_search_link,risk_category
+"Abarelix
+(Only on Non US Market)",Plenaxis,GnRH Antagonist,Cancer (prostate),http://www.ncbi.nlm.nih.gov/pubmed/?term=Abarelix+AND+(%22QT%22+OR+Torsad*),Possible Risk of TdP
+Abiraterone,"Zytiga, Abiratas, Abretone, Abirapro",Anti-androgen,Cancer (Prostate),link,Conditional Risk of TdP
+"Aclarubicin
+(Only on Non US Market)","Aclacin, Aclacinomycine, Aclacinon, Aclaplastin, Jaclacin",Anti-cancer,Cancer,link,Known Risk of TdP
+Adagrasib,Krazati,RAS GTPase inhibitor,"cancer, non-small cell lung",link,Possible Risk of TdP
+Alfuzosin,Uroxatral,Alpha-1 adrenergic blocker,Benign prostatic hyperplasia,link,Possible Risk of TdP
+"Alimemazine (Trimeprazine)
+(Only on Non US Market)","Nedeltran, Panectyl, Repeltin, Therafene, Theraligene, Theralen, Theralene, Vallergan, Vanectyl, Temaril",Antihistamine,Allergy,link,Possible Risk of TdP
+Amantadine,"Symmetrel, Symadine",Antiviral,"Viral infection (Influenza), Parkinson's disease",link,Conditional Risk of TdP
+Amiodarone,"Cordarone, Pacerone, Nexterone",Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Amisulpride,"Barhemsys, Solian, Supitac, Soltus, Amitrex, Amazeo","Antiemetic, Antipsychotic","Nausea and vomiting, postoperative",link,Conditional Risk of TdP
+Amitriptyline,"Elavil (Discontinued 6/13), Tryptomer, Tryptizol, Laroxyl, Saroten, Sarotex Lentizol, Endep","Antidepressant, Tricyclic",Depression,link,Conditional Risk of TdP
+Amphotericin B,"Fungilin, Fungizone, Abelcet, AmBisome, Fungisome, Amphocil, Amphotec",Antifungal,Fungal infection,link,Conditional Risk of TdP
+"Amsacrine (Acridinyl anisidide)
+(Only on Non US Market)",Amsidine,Antineoplastic Agent,Cancer (Acute Lymphoblastic Leukemia),link,Conditional Risk of TdP
+Anagrelide,"Agrylin, Xagrid",Phosphodiesterase 3 inhibitor,Thrombocythemia,link,Known Risk of TdP
+Apalutamide,Erleada,nonsteroidal antiandrogen,Cancer (prostate),link,Possible Risk of TdP
+Apomorphine,"Apokyn, Ixense, Spontane, Uprima",Dopamine agonist,Parkinson's disease,link,Possible Risk of TdP
+Aripiprazole,"Abilify, Aripiprex","Antipsychotic, atypical","Schizophrenia, depression (adjunct)",link,Possible Risk of TdP
+Arsenic trioxide,Trisenox,Anti-cancer,Cancer (leukemia),link,Known Risk of TdP
+Artemether/Lumefantrine,Coartem,Anti-malarial,Marlaria,link,Possible Risk of TdP
+"Artenimol/piperaquine
+(Only on Non US Market)",Eurartesim,Antimalarial,Malaria,link,Possible Risk of TdP
+Asenapine,"Saphris, Sycrest","Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+"Astemizole
+(Removed from US Market)",Hismanal,Antihistamine,Allergic rhinitis,link,Known Risk of TdP
+Atazanavir,"Reyataz, Evotaz",Antiviral,Viral infection (HIV/AIDS),link,Conditional Risk of TdP
+Atomoxetine,Strattera,CNS stimulant,ADHD,link,Possible Risk of TdP
+Azithromycin,"Zithromax, Zmax",Antibiotic,Bacterial infection,link,Known Risk of TdP
+Bedaquiline,Sirturo,Antibiotic,"Tuberculosis, Multi-drug resistant",link,Possible Risk of TdP
+Bendamustine,"Treanda, Treakisym, Ribomustin, Levact",Anti-cancer,"Cancer (Leukemia, lymphoma)",link,Possible Risk of TdP
+Bendroflumethiazide (Bendrofluazide),"Aprinox, Corzide","Diuretic, thiazide","Hypertension, diuresis",link,Conditional Risk of TdP
+"Bepridil
+(Removed from US Market)",Vascor,Antianginal,Angina Pectoris (heart pain),link,Known Risk of TdP
+"Betrixaban
+(Removed from US Market)",Bevyxxa,Anticoagulant,Anticoagulant,link,Possible Risk of TdP
+Bicalutamide,Casodex,Anti-androgen,Cancer (prostate),link,Possible Risk of TdP
+"Bilastine
+(Only on Non US Market)","Allertine, Blexten, Bilasten, Borenar, Ilaxten, Nixar",Antihistamine,Allergy,link,Possible Risk of TdP
+Bortezomib (Bortexomib),"Velcade, Bortecad",Proteasome inhibitor,"Cancer (multiple myeloma,lymphoma)",link,Possible Risk of TdP
+Bosutinib,Bosulif,Anti-cancer,Cancer (leukemia),link,Possible Risk of TdP
+Buprenorphine,"Butrans, Belbuca, Bunavail, Buprenex, Subutex, Suboxone, Zubsolv",Opioid agonist,"Narcotic dependence, pain",link,Possible Risk of TdP
+Cabozantinib,Cometriq,Anti-cancer,Cancer (renal cell),link,Possible Risk of TdP
+Capecitabine,Xeloda,Anti-cancer,"Cancer (GI, Breast)",link,Possible Risk of TdP
+"Carbetocin
+(Only on Non US Market)","Pabal, Lonactene, Duratocin",uterotonic,Uterine atony,link,Possible Risk of TdP
+Ceritinib,Zykadia,Anti-cancer,Cancer (Lung),link,Possible Risk of TdP
+Cesium Chloride,Energy Catalyst,toxin,Alternative therapy cancer,link,Known Risk of TdP
+Chloral hydrate,"Aquachloral, Novo-Chlorhydrate, Somnos, Noctec, Somnote",Sedative,"Sedation, insomnia",link,Conditional Risk of TdP
+Chloroquine,Aralen,Antimalarial,Malaria,link,Known Risk of TdP
+Chlorpromazine,"Thorazine, Largactil, Megaphen",Antipsychotic / Antiemetic,"Psychosis, nausea, many others",link,Known Risk of TdP
+"Chlorprothixene
+(Only on Non US Market)",Truxal,Antipsychotic,Schizophrenia,link,Known Risk of TdP
+Cilostazol,Pletal,Phosphodiesterase 3 inhibitor,Intermittent claudication,link,Known Risk of TdP
+Cimetidine,Tagamet,Antacid,"Gastric hyperacidity, GERD",link,Conditional Risk of TdP
+Cinacalcet,Sensipar,Calcimimetic,Secondary Hyperparathyroidism,link,Conditional Risk of TdP
+Ciprofloxacin,"Cipro, Cipro-XR, Neofloxin",Antibiotic,Bacterial infection,link,Known Risk of TdP
+"Cisapride
+(Removed from US Market)",Propulsid,GI stimulant,Increase GI motility,link,Known Risk of TdP
+Citalopram,"Celexa, Cipramil","Antidepressant, SSRI",Depression,link,Known Risk of TdP
+Clarithromycin,"Biaxin, Prevpac",Antibiotic,Bacterial infection,link,Known Risk of TdP
+"Clofazimine
+(Only on Non US Market)",Lamprene,Antibiotic,Leprosy,link,Conditional Risk of TdP
+Clomipramine,Anafranil,"Antidepressant, Tricyclic",Depression,link,Conditional Risk of TdP
+"Clotiapine
+(Only on Non US Market)",Entumine,"Antipsychotic, atypical",Psychosis,link,Possible Risk of TdP
+Clozapine,"Clozaril, Fazaclo, Versacloz","Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+Cobimetinib,Cotellic,Anti-cancer,Cancer (Melanoma),link,Possible Risk of TdP
+Cocaine,Cocaine,Local anesthetic,Anesthesia (topical),link,Known Risk of TdP
+Crizotinib,Xalkori,Anti-cancer,"Cancer (Non-small cell lung cancer, metastatic)",link,Possible Risk of TdP
+"Cyamemazine (Cyamepromazine)
+(Only on Non US Market)",Tercian,Antipsychotic,"Schizophrenia, sedation",link,Possible Risk of TdP
+Dabrafenib,Tafinlar,Anti-cancer,Cancer (melanoma),link,Possible Risk of TdP
+Dasatinib,Sprycel,Anti-cancer,Cancer (leukemia),link,Possible Risk of TdP
+Degarelix,"Firmagon, Ferring",Anti-androgen,Cancer (prostate),link,Possible Risk of TdP
+"Delamanid
+(Only on Non US Market)",Deltyba,Antibiotic,"Tuberculosis, Multi-drug resistant",link,Possible Risk of TdP
+Desipramine,"Pertofrane, Norpramine","Antidepressant, Tricyclic",Depression,link,Possible Risk of TdP
+Dexmedetomidine,"Precedex, Dexdor, Dexdomitor, Igalmi",Sedative,Sedation,link,Possible Risk of TdP
+Dextromethorphan/Quinidine,Nuedexta,Unknown,Pseudobulbar affect,link,Possible Risk of TdP
+Diltiazem,Cardizem,Calcium channel blocker,Hypertension,link,Conditional Risk of TdP
+Diphenhydramine,"Benadryl, Nytol, Unisom, Sominex, Dimedrol, Daedalon, Banophen",Antihistamine,"Allergic rhinitis, insomnia",link,Conditional Risk of TdP
+Disopyramide,Norpace,Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Dofetilide,Tikosyn,Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Dolasetron,Anzemet,Antiemetic,"Nausea, vomiting",link,Possible Risk of TdP
+"Domperidone
+(Only on Non US Market)","Motilium, Motillium, Motinorm Costi, Nomit",Antiemetic,"Nausea, vomiting",link,Known Risk of TdP
+Donepezil,Aricept,Cholinesterase inhibitor,Dementia (Alzheimer's Disease),link,Known Risk of TdP
+dordaviprone,Modeyso,chemotheraputic agent,Glioma,link,Possible Risk of TdP
+Doxepin,"Sinequan, Silenor, Aponal, Adapine, Doxal, Deptran, Sinquan","Antidepressant, Tricyclic",Depression,link,Conditional Risk of TdP
+Dronedarone,Multaq,Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Droperidol,"Inapsine, Droleptan, Dridol, Xomolix",Antipsychotic / Antiemetic,"Anesthesia (adjunct), nausea",link,Known Risk of TdP
+Efavirenz,Sustiva,Antiviral,HIV/AIDS,link,Possible Risk of TdP
+Eliglustat,Cerdelga,Glucosylceramide synthase inhibitor,Gaucher's disease,link,Possible Risk of TdP
+Encorafenib,Braftovi,BRAF inhibitor,Cancer (Melanoma),link,Possible Risk of TdP
+Entrectinib,Rozlytrek,Anti-cancer,Cancer (Lung),link,Possible Risk of TdP
+"Eperisone
+(Only on Non US Market)","Myonal, Epry",Antispasmodic,Spasticity,link,Conditional Risk of TdP
+Epirubicin,"Ellence, Pharmorubicin, Epirubicin Ebewe",Anti-cancer,Cancer,link,Possible Risk of TdP
+Eribulin mesylate,Halaven,Anti-cancer,"Cancer (breast, metastatic)",link,Possible Risk of TdP
+Erythromycin,"E.E.S., Robimycin, EMycin, Erymax, Ery-Tab, Eryc Ranbaxy, Erypar, Eryped, Erythrocin Stearate Filmtab, Erythrocot, E-Base, Erythroped, Ilosone, MY-E, Pediamycin, Abboticin, Abboticin-ES, Erycin, PCE Dispertab, Stiemycine, Acnasol, Tiloryth",Antibiotic,"Bacterial infection, increase GI motility",link,Known Risk of TdP
+Escitalopram,"Cipralex, Lexapro, Nexito, Anxiset-E, Exodus, Esto, Seroplex, Elicea, Lexamil, Lexam, Entact, Losita, Reposil, Animaxen, Esitalo, Lexamil","Antidepressant, SSRI","Depression (major), anxiety disorders",link,Known Risk of TdP
+Esomeprazole,"Nexium, Nexum, Inexium",Proton Pump Inhibitor,"Gastric hyperacidity, GERD",link,Conditional Risk of TdP
+"Ezogabine (Retigabine)
+(Removed from US Market,
+Only on Non US Market)","Potiga, Trobalt",Anticonvulsant,"Seizures, Partial",link,Possible Risk of TdP
+Famotidine,"Pepcid, Fluxid, Quamatel",H2-receptor antagonist,"Gastric hyperacidity, GERD",link,Conditional Risk of TdP
+Felbamate,Felbatol,Anticonvulsant,Seizures,link,Possible Risk of TdP
+Fexinidazole,Fexinidazole,Antiprotozoal,African trypanosomiasis,link,Possible Risk of TdP
+Fingolimod,Gilenya,Sphingosine phospate receptor modulator,Multiple Sclerosis,link,Possible Risk of TdP
+Flecainide,"Tambocor, Almarytm, Apocard, Ecrinal, Flécaine",Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Fluconazole,"Diflucan, Trican",Antifungal,Fungal infection,link,Known Risk of TdP
+Fluorouracil (5-FU),"Adrucil, Carac, Efudex, Efudix",Anti-cancer,Cancer,link,Possible Risk of TdP
+Fluoxetine,"Prozac, Sarafem, Fontex","Antidepressant, SSRI",Depression,link,Conditional Risk of TdP
+"Flupentixol
+(Only on Non US Market)","Depixol, Fluanxol",Antipsychotic,Schizophrenia,link,Possible Risk of TdP
+Fluvoxamine,"Faverin, Fevarin, Floxyfral, Dumyrox, Luvox",Selective Serotonin Reuptake Inhibitor,"Depression, Obsessive Compulsive Disorder",link,Conditional Risk of TdP
+Furosemide (frusemide),"Lasix, Fusid, Frumex, Lasilix",Diuretic,"Hypertension, diuresis",link,Conditional Risk of TdP
+Galantamine,"Reminyl, Nivalin, Razadyne-ER, Lycoremine",Cholinesterase inhibitor,Dementia (Alzheimer's Disease),link,Conditional Risk of TdP
+"Garenoxacin
+(Only on Non US Market)",Geninax,Antibiotic,Bacterial infection,link,Conditional Risk of TdP
+"Gatifloxacin
+(Removed from US Market)",Tequin,Antibiotic,Bacterial infection,link,Known Risk of TdP
+Gemifloxacin,Factive,Antibiotic,Bacterial infection,link,Possible Risk of TdP
+Gepirone,Exxua,Antidepressant,"Depression, major",link,Possible Risk of TdP
+Gepotidacin,Blujepa,Topoisomerase II inhibitor,Urinary tract infections,link,Possible Risk of TdP
+Gilteritinib,Xospata,Antineoplastic,Cancer (Acute Myeloid Leukemia),link,Possible Risk of TdP
+Givinostat,Duvyzat,Histone deacetylase inhibitor,Duchenne Muscular Dystrophy,link,Possible Risk of TdP
+Glasdegib,Daurismo,Anti-cancer,Cancer (Acute myeloid leukemia),link,Possible Risk of TdP
+Granisetron,"Kytril, Sancuso, Granisol",Antiemetic,"Nausea, vomiting",link,Possible Risk of TdP
+"Grepafloxacin
+(Removed from US Market)",Raxar,Antibiotic,Bacterial infection,link,Known Risk of TdP
+"Halofantrine
+(Only on Non US Market)",Halfan,Antimalarial,Malaria,link,Known Risk of TdP
+Haloperidol,"Haldol, Aloperidin, Bioperidolo, Brotopon, Dozic, Duraperidol, Einalon S, Eukystol, Halosten, Keselan, Linton, Peluces, Serenace, Serenase, Sigaperidol",Antipsychotic,"Schizophrenia, agitation",link,Known Risk of TdP
+Hydrochlorothiazide,"Apo-Hydro, Aquazide H, BP Zide, Dichlotride, Hydrodiuril, HydroSaluric, Microzide, Esidrex, Oretic",Diuretic,"Hypertension, diuresis",link,Conditional Risk of TdP
+Hydrocodone - ER,"Hysingla™ ER, Zohydro ER",Analgesic,"Pain, severe",link,Possible Risk of TdP
+"Hydroquinidine (Dihydroquinidine)
+(Only on Non US Market)",Serecor,Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Hydroxychloroquine,"Plaquenil, Quineprox","Antimalarial, Anti-inflammatory","Malaria, SLE, rheumatoid arthritis",link,Known Risk of TdP
+Hydroxyzine,"Atarax, Vistaril, Aterax, Alamon, Durrax, Equipose, Masmoran, Orgatrax, Paxistil Quiess, Tran-Q, Tranquizine",Antihistamine,"Anxiety disorders, allergic reactions",link,Conditional Risk of TdP
+"Ibogaine
+(Only on Non US Market)",,Psychedelic,"Narcotic dependence, unproven efficacy",link,Known Risk of TdP
+Ibutilide,Corvert,Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Iloperidone,"Fanapt, Fanapta, Zomaril","Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+Imatinib,"Gleevec, Glivec",Anti-cancer,Cancer (Acute myeloid leukemia),link,Possible Risk of TdP
+Imipramine (Melipramine),Tofranil,"Antidepressant, Tricyclic",Depression,link,Possible Risk of TdP
+Indapamide,"Lozol, Natrilix, Insig",Diuretic,"Hypertension, diuresis",link,Conditional Risk of TdP
+Inotuzumab ozogamicin,Besponsa,Anti-cancer,Cancer (acute lymphocytic leukemia},link,Possible Risk of TdP
+Isoflurane,Forane,General anesthesia,General anesthesia,link,Possible Risk of TdP
+Isradipine,Dynacirc,Antihypertensive,Hypertension,link,Possible Risk of TdP
+Itraconazole,"Sporanox, Onmel",Antifungal,Fungal infection,link,Conditional Risk of TdP
+Ivabradine,"Procoralan, Coralan, Corlentor, Coraxan, Ivabid, Bradia",Antianginal,Angina Pectoris (heart pain),link,Known Risk of TdP
+Ivosidenib,Tibsovo,IDH1 inhibitor,Cancer (Acute myeloid leukemia),link,Possible Risk of TdP
+"Ketanserin
+(Only on Non US Market)",Sufrexal,Antihypertensive,Hypertension,link,Possible Risk of TdP
+Ketoconazole,"Nizoral, Sebizole, Ketomed, Keton",Antifungal,Fungal infection,link,Conditional Risk of TdP
+"Lacidipine
+(Only on Non US Market)","Lacipil, Motens",Calcium channel blocker,Hypertension,link,Possible Risk of TdP
+Lansoprazole,"Prevacid, Ogast",Proton Pump Inhibitor,"Gastric hyperacidity, GERD",link,Conditional Risk of TdP
+Lapatinib,"Tykerb, Tyverb",Anti-cancer,"Cancer (breast, metastatic)",link,Possible Risk of TdP
+Lefamulin,Xenleta,Antibiotic,Community acquired pneumonia,link,Possible Risk of TdP
+Lenvatinib,Lenvima,Anti-cancer,Cancer (Thyroid),link,Possible Risk of TdP
+Leuprolide (Leuprorelin),"Lupron, Eligard, Viadur, Carcinil, Enanton, Leuplin, Lucrin, Procren, Prostap",Anti-androgen,Cancer (prostate),link,Possible Risk of TdP
+Levofloxacin,"Levaquin, Tavanic",Antibiotic,Bacterial infection,link,Known Risk of TdP
+Levoketoconazole,Recorlev,CYP450 inhibitor,Cushing's disease,link,Possible Risk of TdP
+"Levomepromazine (Methotrimeprazine)
+(Only on Non US Market)","Nosinan, Nozinan, Levoprome",Antipsychotic,Schizophrenia,link,Known Risk of TdP
+"Levomethadone (levamethadone)
+(Only on Non US Market)",,Opioid,Opiate withdrawal syndrome,link,Possible Risk of TdP
+"Levomethadyl acetate
+(Removed from US Market)",Orlaam,Opioid agonist,Narcotic dependence,link,Known Risk of TdP
+"Levosulpiride
+(Only on Non US Market)","Lesuride, Levazeo, Enliva",Antipsychotic,Schizophrenia,link,Known Risk of TdP
+Lithium,"Eskalith, Lithobid",Antimanic,Bipolar disorder,link,Possible Risk of TdP
+Lofexidine,Lucemyra,"Alpha-2-adrenergic agonist, central",Opioid withdrawal syndrome,link,Possible Risk of TdP
+Loperamide,Imodium,Opioid agonist,Diarrhea,link,Conditional Risk of TdP
+Lopinavir/Ritonavir,"Kaletra, Aluvia",Antiviral,HIV/AIDS,link,Possible Risk of TdP
+Lumateperone,Caplyta,"Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+Lurasidone,Latuda,"Antipsychotic, atypical","Schizophrenia, biopolar disorder and others",link,Possible Risk of TdP
+Macimorelin,Macrilen,Ghrelin receptor agonist,Diagnostic adjunct,link,Possible Risk of TdP
+Maprotiline,Ludiomil,"Anti-depressant, Tetracyclic",Depression,link,Possible Risk of TdP
+Mavorixafor,Xolremdi,CXC chemokine receptor 4 antagonist,WHIM syndrome,link,Possible Risk of TdP
+"Meglumine antimoniate
+(Only on Non US Market)",Glucantime,Antiparasitic,Leishmaniasis,link,Known Risk of TdP
+"Melperone
+(Only on Non US Market)","Bunil, Buronil, Eunerpan","Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+"Mesoridazine
+(Removed from US Market)",Serentil,Antipsychotic,Schizophrenia,link,Known Risk of TdP
+Methadone,"Dolophine, Symoron, Amidone, Methadose, Physeptone, Heptadon",Opioid agonist,"Narcotic dependence, pain",link,Known Risk of TdP
+Metoclopramide,"Reglan, Gimoti, Afipran, Maxolon, Cerucal, Clopamon, Clopra, Maxeran, Maxolon, Metozolv, Plasil, Pramin, Primperan, Perinorm",Antiemetic,"Nausea, vomiting",link,Conditional Risk of TdP
+Metolazone,"Zytanix, Zaroxolyn, Mykrox",Diuretic,"Hypertension, diuresis",link,Conditional Risk of TdP
+Metronidazole,"Flagyl, Helidac",Antibiotic,"Trichomoniasis, amebiasis, bacterial infection",link,Conditional Risk of TdP
+"Mianserin
+(Only on Non US Market)",Tolvon,Anti-depressant,Depression,link,Possible Risk of TdP
+Midostaurin,Rydapt,Anti-cancer,Cancer (Acute myeloid leukemia),link,Possible Risk of TdP
+Mifepristone,"Korlym, Mifeprex",Progesterone antagonist,Pregnancy termination,link,Possible Risk of TdP
+Mirabegron,Myrbetriq,Beta3 adrenergic antagonist,Bladder spasm,link,Possible Risk of TdP
+Mirtazapine,Remeron,"Antidepressant, Tetracyclic",Depression,link,Possible Risk of TdP
+Mobocertinib,Exkivity,Tyrosine kinase inhibitor,Cancer (Lung),link,Known Risk of TdP
+"Moclobemide
+(Only on Non US Market)","Amira, Aurorix, Clobemix, Depnil, Manerix",Antidepressant,Depression,link,Possible Risk of TdP
+Motixafortide,Aphexda,Hematopoietic stem cell mobilizer,Multiple Myeloma,link,Possible Risk of TdP
+Moxifloxacin,"Avelox, Avalox, Avelon",Antibiotic,Bacterial infection,link,Known Risk of TdP
+Necitumumab,Portrazza,anti-cancer,Cancer (Lung),link,Possible Risk of TdP
+Nelfinavir,Viracept,Antiviral,Viral infection (HIV/AIDS),link,Conditional Risk of TdP
+Nicardipine,Cardene,Antihypertensive,Hypertension,link,Possible Risk of TdP
+"Nifekalant
+(Only on Non US Market)",Shinbit,Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Nilotinib,Tasigna,Anti-cancer,Cancer (leukemia),link,Possible Risk of TdP
+"Norfloxacin
+(Removed from US Market,
+Only on Non US Market)","Noroxin, Ambigram",Antibiotic,Bacterial infection,link,Possible Risk of TdP
+Nortriptyline,"Pamelor, Sensoval, Aventyl, Norpress, Allegron, Noritren, Nortrilen","Antidepressant, Tricyclic",Depression,link,Possible Risk of TdP
+Nusinersen,Spinraza,Antisense oligonucleotide,Spinal Muscular Atrophy,link,Possible Risk of TdP
+Ofloxacin,Floxin,Antibiotic,Bacterial infection,link,Possible Risk of TdP
+Olanzapine,"Zyprexa, Zydis, Relprevv","Antipsychotic, atypical","Schizophrenia, bipolar disorder",link,Conditional Risk of TdP
+Oliceridine,Olinvyk,analgesia,pain,link,Possible Risk of TdP
+Omeprazole,"Losec, Prilosec, Zegerid, Mopral",Proton Pump Inhibitor,"Gastric hyperacidity, GERD",link,Conditional Risk of TdP
+Ondansetron,"Zofran, Anset, Ondemet, Zuplenz, Emetron, Ondavell, Emeset, Ondisolv, Setronax",Antiemetic,"Nausea, vomiting",link,Known Risk of TdP
+"Opipramol
+(Only on Non US Market)","Deprenil, Dinsidon, Ensidon, Insidon, Insomin, Inzeton, Nisidana, Opipram, Opramol, Oprimol, Pramolan, and Sympramol among others",Sigma receptor agonist,Depression,link,Possible Risk of TdP
+Osilodrostat,Isturisa,Aldosterone synthase inhibitor,Cushing's Disease,link,Possible Risk of TdP
+Osimertinib,Tagrisso,Anti-cancer,Cancer (EGFR pos. NSC Lung cancer),link,Known Risk of TdP
+Oxaliplatin,Eloxatin,Anti-cancer,Cancer,link,Known Risk of TdP
+Oxytocin,"Pitocin, Syntocinon",Oxytocic,Labor stimulation,link,Possible Risk of TdP
+Ozanimod,Zeposia,Immunomodulation,Multiple Sclerosis,link,Possible Risk of TdP
+Pacritinib,Vonjo,JAK inhibitor,"Cancer, myelofibrosis",link,Possible Risk of TdP
+Paliperidone,"Invega, Xepilon","Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+Palonosetron,Aloxi,Antiemetic,"Nausea, vomiting",link,Possible Risk of TdP
+Panobinostat,Farydak,Histone deacetylase inhibitor,"Cancer, Multiple myeloma",link,Possible Risk of TdP
+Pantoprazole,"Protonix, Inipomp, Eupantol",Proton Pump Inhibitor,"Gastric hyperacidity, GERD",link,Conditional Risk of TdP
+Papaverine HCl (Intra-coronary),"ParaTime SR, others","Vasodilator, Coronary",Diagnostic adjunct,link,Known Risk of TdP
+Paroxetine,"Paxil, Aropax, Pexeva, Seroxat, Sereupin, Seroxat, Deroxat","Antidepressant, SSRI",Depression,link,Conditional Risk of TdP
+Pasireotide,Signifor,Somatostatin analog,Cushing's Disease,link,Possible Risk of TdP
+Pazopanib,Votrient,Anti-cancer,"Cancer (renal cell, sarcoma)",link,Possible Risk of TdP
+Pentamidine,Pentam,Antifungal,Fungal infection (Pneumocystis pneumonia),link,Known Risk of TdP
+Perphenazine,"Trilafon, Etrafon/Triavil, Decentan",Antipsychotic,Schizophrenia,link,Possible Risk of TdP
+"Pilsicainide
+(Only on Non US Market)",Sunrythm,Anti-arrhythmic,Arrhythmia,link,Possible Risk of TdP
+Pimavanserin,Nuplazid,"Antipsychotic, atypical","Psychosis, Parkinson's Disease",link,Possible Risk of TdP
+Pimozide,Orap,Antipsychotic,"Psychosis, Tourette's Disorder",link,Known Risk of TdP
+"Pipamperone
+(Only on Non US Market)","Dipiperon, Propitan, Dipiperal, Piperonil, Piperonyl",Antipsychotic,Schizophrenia,link,Possible Risk of TdP
+Piperacillin/Tazobactam,"Tazosyn, Zosyn",Antibiotic,Bacterial infection,link,Conditional Risk of TdP
+Pitolisant (Tiprolisant),Wakix,Histamine 3 antagonist/inverse agonist,Narcolepsy,link,Possible Risk of TdP
+Ponesimod,Ponvory,Sphingosine 1-phosphate receptor modulator,Multiple Sclerosis,link,Possible Risk of TdP
+Posaconazole,"Noxafil, Posamol",Antifungal,Fungal infection,link,Conditional Risk of TdP
+Pralsetinib,Gavreto,Tyrosine kinase inhibitor,cancer (medullary thyroid),link,Possible Risk of TdP
+Pretomanid,Dovprela,Antitubercular,"Tuberculosis, extensively drug resistant",link,Possible Risk of TdP
+Primaquine phosphate,"Jasoprim, Malirid, Neo-Quipenyl, Pimaquin, Pmq, Primachina, Primacin, Primaquina, Remaquin",Antimalarial,Malaria,link,Possible Risk of TdP
+"Probucol
+(Removed from US Market)",Lorelco,Antilipemic,Hypercholesterolemia,link,Known Risk of TdP
+Procainamide,"Pronestyl, Procan",Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Promethazine,Phenergan,Antipsychotic / Antiemetic,"Nausea, vomiting",link,Possible Risk of TdP
+Propafenone,"Rythmol SR, Rytmonorm",Sodium channel blocker,Arrhythmia,link,Conditional Risk of TdP
+Propofol,"Diprivan, Propoven","Anesthetic, general",Anesthesia,link,Known Risk of TdP
+"Prothipendyl
+(Only on Non US Market)","Dominal, Largophren, Timoval, Timovan, Tumovan",Antipsychotic,Schizophrenia,link,Possible Risk of TdP
+Quetiapine,Seroquel,"Antipsychotic, atypical",Schizophrenia,link,Conditional Risk of TdP
+Quinidine,"Quinaglute, Duraquin, Quinact, Quinidex, Cin-Quin, Quinora",Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+Quinine sulfate,"Qualaquin, Hexaquine",Antimalarial,"Malaria, leg cramps",link,Conditional Risk of TdP
+Quizartinib,Vanflyta,Tyrosine kinase inhibitor,Acute myeloid leukemia,link,Known Risk of TdP
+Ranolazine,"Ranexa, Ranozex",Antianginal,Angina Pectoris (heart pain),link,Conditional Risk of TdP
+Relugolix,"Orgovyx, Relumina",GnRH antagonist,Cancer (prostate),link,Possible Risk of TdP
+Remdesivir,Veklury,Antiviral,COVID-19,link,Possible Risk of TdP
+Remimazolam,Byfavo,Sedative,Sedation,link,Possible Risk of TdP
+Revumenib,Revuforj,Antineoplastic,Acute leukemia,link,Possible Risk of TdP
+Ribociclib,Kisqali,Anti-cancer,Cancer (breast),link,Possible Risk of TdP
+Rilpivirine,"Edurant, Complera, Eviplera, Juluca",Antiviral,Viral infection (HIV/AIDS),link,Possible Risk of TdP
+Risperidone,Risperdal,"Antipsychotic, atypical",Schizophrenia,link,Conditional Risk of TdP
+Rivastigmine,Exelon,Cholinesterase inhibitor,Dementia (Alzheimers disease),link,Possible Risk of TdP
+Romidepsin,Istodax,Histone deacetylase inhibitor,Cancer (lymphoma),link,Possible Risk of TdP
+"Roxithromycin
+(Only on Non US Market)","Rulide, Xthrocin, Roxl-150, Roxo, Surlid, Rulide, Biaxsig, Roxar, Roximycinv, Roxomycin, Rulid, Tirabicin, Coroxin",Antibiotic,Bacterial infection,link,Known Risk of TdP
+Rucaparib,Rubraca,PARP inhibitor,Cancer,link,Possible Risk of TdP
+Saquinavir (with ritonavir),Invirase,Antiviral,Viral infection (HIV/AIDS),link,Possible Risk of TdP
+Selpercatinib,Retevmo,Kinase inhibitor,Lung cancer,link,Possible Risk of TdP
+"Sertindole
+(Only on Non US Market)","Serdolect, Serlect","Antipsychotic, atypical","Schizophrenia, anxiety",link,Known Risk of TdP
+Sertraline,"Zoloft, Lustral","Antidepressant, SSRI",Depression,link,Conditional Risk of TdP
+Sevoflurane,"Ultane, Sojourn","Anesthetic, general",Anesthesia,link,Known Risk of TdP
+Siponimod,Mayzent,,Multiple Sclerosis,link,Possible Risk of TdP
+"Sitafloxacin
+(Only on Non US Market)",Gracevit,Antibiotic,Infections,link,Possible Risk of TdP
+Solifenacin,Vesicare,Muscle relaxant,Bladder spasm,link,Conditional Risk of TdP
+Sorafenib,Nexavar,Anti-cancer,"Cancer (liver, renal cell, metastatic thyroid)",link,Possible Risk of TdP
+Sotalol,"Betapace, Sotalex, Sotacor, Sotalol-AF",Antiarrhythmic,Arrhythmia,link,Known Risk of TdP
+"Sparfloxacin
+(Removed from US Market)",Zagam,Antibiotic,Bacterial infection,link,Known Risk of TdP
+"Sulpiride
+(Only on Non US Market)","Dogmatil, Dolmatil, Eglonyl, Espiride, Modal, Sulpor","Antipsychotic, atypical",Schizophrenia,link,Known Risk of TdP
+"Sultopride
+(Only on Non US Market)","Barnetil, Barnotil, Topral","Antipsychotic, atypical",Schizophrenia,link,Known Risk of TdP
+Sunitinib,Sutent,Anti-cancer,"Cancer (GIST, renal cell, pNET)",link,Possible Risk of TdP
+Tacrolimus,"Prograf, Prograf, Advagraf, Protopic",Immunosuppressant,Immune suppression,link,Possible Risk of TdP
+Tamoxifen,"Nolvadex, Istubal",Anti-cancer,Cancer (breast),link,Possible Risk of TdP
+Tazemetostat,Tazverik,Anti-cancer,Epithelioid sarcoma,link,Possible Risk of TdP
+Tebentafusp,Kimmtrak,CD3 T cell engager,"Melanoma, eye",link,Possible Risk of TdP
+"Telaprevir
+(Removed from US Market,
+Only on Non US Market)","Incivo, Incivek",Antiviral,Viral infection (hepatitis C),link,Conditional Risk of TdP
+Telavancin,Vibativ,Antibiotic,Bacterial infection,link,Possible Risk of TdP
+Telithromycin,Ketek,Antibiotic,Bacterial infection,link,Possible Risk of TdP
+"Terfenadine
+(Removed from US Market)",Seldane,Antihistamine,Allergic rhinitis,link,Known Risk of TdP
+Terlipressin,"Teripress, Glypressin, Terlipin, Remestyp, Tresil, Teriss",Vasoconstrictor,Septic shock,link,Known Risk of TdP
+"Terodiline
+(Only on Non US Market)","Micturin, Mictrol",Muscle relaxant,Bladder spasm,link,Known Risk of TdP
+Tetrabenazine,"Nitoman, Xenazine",Vesicular Monoamine Transporter 2 Inhibitor,Chorea (Huntington's disease),link,Possible Risk of TdP
+Thioridazine,"Mellaril, Novoridazine, Thioril",Antipsychotic,Schizophrenia,link,Known Risk of TdP
+"Tiapride
+(Only on Non US Market)","Tiapridal, Italprid, Sereprile, Tialaread, Tiaryl, Tiaprim, Tiaprizal, Sereprid, Tiapridex","Selective D2, D3 dopamine antagonist","Alcoholism, withdrawal",link,Possible Risk of TdP
+Tipiracil/Trifluridine,Lonsurf,Anti-cancer,Cancer (Metastatic colorectal),link,Possible Risk of TdP
+Tizanidine,"Zanaflex, Sirdalud",Muscle relaxant,Muscle spasticity,link,Possible Risk of TdP
+Tolterodine,"Detrol, Detrusitol",Muscle relaxant,Bladder spasm,link,Possible Risk of TdP
+Toremifene,Fareston,Estrogen agonist/antagonist,"Cancer (breast, metastatic)",link,Possible Risk of TdP
+Torsemide (Torasemide),"Demadex, Diuver, Examide",Diuretic,"Hypertension, diuresis",link,Conditional Risk of TdP
+Tramadol,"Crispin, Ralivia ER, Ralivia Flashtab, Tramadolum, Tramal, Tramodol, Tridural, Ultram, Ultram ER, Zydol, Ixprim, Zaldiar, Topalgic",Analgesic,Pain,link,Possible Risk of TdP
+Trazodone,"Desyrel, Oleptro, Beneficat, Deprax, Desirel, Molipaxin, Thombran, Trazorel, Trialodine, Trittico, Mesyrel","Antidepressant, SARI","Depression, insomnia",link,Conditional Risk of TdP
+Triclabendazole,Egaten,Antihelmintics,Fascioliasis,link,Possible Risk of TdP
+Trimipramine,"Surmontil, Rhotrimine, Stangyl","Antidepressant, Tricyclic",Depression,link,Possible Risk of TdP
+"Tropisetron
+(Only on Non US Market)","Navoban, Setrovel",Antiemetic,"Nausea, vomiting",link,Possible Risk of TdP
+Valbenazine,Ingrezza,Vesicular monamine transporter 2 inhibitor,Tardive Dyskinesia,link,Possible Risk of TdP
+Vandetanib,Caprelsa,Anti-cancer,Cancer (thyroid),link,Known Risk of TdP
+Vardenafil,Levitra,Phosphodiesterase 5 inhibitor,Erectile dysfunction,link,Possible Risk of TdP
+Vemurafenib,Zelboraf,Anti-cancer,Cancer (melanoma),link,Possible Risk of TdP
+Venlafaxine,"Effexor, Efexor","Antidepressant, SNRI",Depression,link,Possible Risk of TdP
+"Vernakalant
+(Only on Non US Market)","Brinavess, Kynapid",Antiarrhythmic agent,Atrial Fibrillation,link,Possible Risk of TdP
+Voclosporin,Lupkynis,Immunosupressant,Lupus nephritis,link,Possible Risk of TdP
+Voriconazole,VFend,Antifungal,Fungal infection,link,Conditional Risk of TdP
+Vorinostat,Zolinza,Histone deacetylase inhibitor,Cancer (lymphoma),link,Possible Risk of TdP
+Ziprasidone,"Geodon, Zeldox","Antipsychotic, atypical",Schizophrenia,link,Conditional Risk of TdP
+"Zotepine
+(Only on Non US Market)","Losizopilon, Lodopin, Setous, Zoleptil","Antipsychotic, atypical",Schizophrenia,link,Possible Risk of TdP
+"Zuclopenthixol (Zuclopentixol)
+(Only on Non US Market)","Cisordinol, Clopixol, Acuphase",Antipsychotic,Psychosis,link,Possible Risk of TdP

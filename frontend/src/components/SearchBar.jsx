@@ -8,7 +8,7 @@ export default function SearchBar({ onResult, onLoading }) {
     if (!medicine.trim()) return
     onLoading(true)
     try {
-      const response = await fetch("http://localhost:8000/check/text", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/check/text`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ medicine })

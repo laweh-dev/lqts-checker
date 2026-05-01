@@ -7,7 +7,7 @@ from anthropic import Anthropic
 from dotenv import load_dotenv
 
 
-SYSTEM_PROMPT = """You extract ONLY active medical ingredient names from user-provided medicine names or unstructured text.
+SYSTEM_PROMPT = """You extract ONLY active ingredient names from user-provided medicine names or unstructured text.
 
 You MUST reply with ONLY a valid JSON array of strings, lowercase.
 No explanations, no extra text, no markdown—only the JSON array.

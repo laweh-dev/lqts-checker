@@ -60,7 +60,7 @@ def check_medicine(medicine_name: str) -> dict:
 if __name__ == "__main__":
     import json
 
-    tests = ["Lemsip Max", "Strepsils", "ibuprofen", "banana"]
+    tests = ["Macrolides", "Benadryl", "Imodium", "Loratadine", "Cetirizine hydrochloride", "Klaricid"]
 
     for medicine in tests:
         print(f"\n--- {medicine} ---")

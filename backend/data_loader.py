@@ -13,7 +13,7 @@ def _normalise_ingredient_name(name: str) -> str:
 
 def _csv_path() -> Path:
     backend_dir = Path(__file__).resolve().parent
-    return backend_dir.parent / "data" / "qt_risk_drugs_crediblemeds.csv"
+    return backend_dir / "data" / "qt_risk_drugs_crediblemeds.csv"
 
 @lru_cache(maxsize=1)
 def _load_db() -> Dict[str, RiskInfo]:

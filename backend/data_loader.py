@@ -12,9 +12,8 @@ def _normalise_ingredient_name(name: str) -> str:
     return (name or "").strip().lower()
 
 def _csv_path() -> Path:
-    #backend/data_loader.py -> repo_root/data/qt_risk_drugs_crediblemeds.csv
-    repo_root = Path(__file__).resolve().parents[1]
-    return repo_root / "data" / "qt_risk_drugs_crediblemeds.csv"
+    backend_dir = Path(__file__).resolve().parent
+    return backend_dir.parent / "data" / "qt_risk_drugs_crediblemeds.csv"
 
 @lru_cache(maxsize=1)
 def _load_db() -> Dict[str, RiskInfo]:

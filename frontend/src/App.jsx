@@ -29,7 +29,10 @@ export default function LQTSChecker() {
   useEffect(() => { setShowIngredients(false); }, [result]);
 
   return (
-    <div className="min-h-svh flex flex-col bg-stone-50 text-stone-800 font-[Nunito,system-ui,sans-serif]">
+    <div className="min-h-svh flex flex-col bg-stone-50 text-stone-800 font-[Nunito,system-ui,sans-serif] max-w-md mx-auto w-full">
+      <div className="hidden md:block text-center text-xs text-stone-500 py-2 bg-stone-100 border-b border-stone-200">
+    Designed for mobile — for the best experience, open on your phone
+  </div>
       <header className="px-7 pt-5 flex items-baseline justify-between">
         <div className="flex items-baseline gap-1.5">
           <span className="text-[15px] font-bold text-emerald-800 tracking-tight">lqts</span>
